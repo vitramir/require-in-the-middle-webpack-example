@@ -17,7 +17,7 @@
     "webpack-cli": "^3.3.11"
   },
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "require-in-the-middle": "^5.0.3"
   }
 }
